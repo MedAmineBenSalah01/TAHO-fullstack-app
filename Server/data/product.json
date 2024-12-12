@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 699,
+      "description": "A powerful smartphone with a sleek design."
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1299,
+      "description": "A high-performance laptop for work and gaming."
+    },
+    {
+      "id": 3,
+      "name": "Wireless Earbuds",
+      "price": 199,
+      "description": "Compact wireless earbuds with noise cancellation."
+    },
+    {
+      "id": 4,
+      "name": "Smartwatch",
+      "price": 249,
+      "description": "A smartwatch to keep you connected on the go."
+    },
+    {
+      "id": 5,
+      "name": "Gaming Console",
+      "price": 499,
+      "description": "Next-gen gaming console with ultra HD graphics."
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "price": 899,
+      "description": "High-quality DSLR camera for photography enthusiasts."
+    }
+  ]
+  
